@@ -86,8 +86,7 @@ The MVC Job Portal project is designed to manage job recruitment processes throu
    ```bash
    git clone <repository-url>
 
-
-
-2. Start 
+2. Start:
+  ```bash
 
 npm start
